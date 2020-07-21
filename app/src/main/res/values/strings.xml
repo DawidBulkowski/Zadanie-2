@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista zadań</string>
+    <string name="text_view">Tekst do wpisania</string>
+    <string name="done_task">Zrobione</string>
+    <string name="delete">Usuń</string>
+    <string name="add">Dodaj</string>
+    <string name="add_new_task">Dodaj nowe zadanie</string>
+    <string name="write_your_task">Poniżej wpisz zadanie</string>
+</resources>
